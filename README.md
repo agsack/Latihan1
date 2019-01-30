@@ -59,7 +59,8 @@ Setelah download, buka file tersebut untuk menjalankan proses instalasi. Ikuti s
 ![4 - copy 3](https://user-images.githubusercontent.com/46734315/51965789-2b834780-249d-11e9-9314-5ec61384ea03.png)
 
 ### 11. Dan inilah hasilnya.
-![untitled](https://user-images.githubusercontent.com/46734315/51966524-540c4100-249f-11e9-982a-665b8ccbbb5e.png)
+![untitled](https://user-images.githubusercontent.com/46734315/51967459-f0cfde00-24a1-11e9-9739-b02732691104.png)
+
 
 # Sekian dan Terima Kasih
 ## Agus Saputra
